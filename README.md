@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harshalgondaliya.netlify.app/](https://harshalgondaliya.netlify.app/)
 
-- 💬 Ask me about **Software Engineering , AI/ML , Python For DSA**
+- 💬 Ask me about **Software Engineering , AI/ML , Python in DSA**
 
 - 📫 How to reach me **harshalgondaliya07@gmail.com**
 
