@@ -1,4 +1,4 @@
-![logo](https://www.figma.com/design/Rc7qVj0DVGWBsyeU7pvJxG/README-Github-Banner-(Community)?m=auto&t=WNy1QdHfZ7aBIgzr-6)
+![logo](https://github.com/harshalgondaliya/harshalgondaliya/blob/main/README%20Github%20Banner%20(Community).jpg)
 <h1 align="center">Hi 👋, I'm Harshal Gondaliya</h1>
 <h3 align="center">A passionate Software Engineer and AI/ML enthusiast from India</h3>
 
