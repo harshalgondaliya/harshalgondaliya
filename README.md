@@ -1,4 +1,4 @@
-![logo](https://github.com/harshalgondaliya/harshalgondaliya/blob/main/README%20Github%20Banner%20(Community).jpg)
+![logo](https://github.com/harshalgondaliya/harshalgondaliya/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Harshal Gondaliya</h1>
 <h3 align="center">A passionate Software Engineer and AI/ML enthusiast from India</h3>
 
