@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalgondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="harshalgondaliya" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://harshalgondaliya.netlify.app/](https://harshalgondaliya.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://harshalgondaliya.netlify.app/](https://harshalgondaliya.vercel.app/)
 
 - 💬 Ask me about **Software Engineering , AI/ML , Python in DSA**
 
